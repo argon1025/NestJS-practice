@@ -11,4 +11,5 @@ $ nest new project-name
 # 2. 프로젝트 실행
 ```
 $ npm run start:dev
+$ npm run start-mon // Hotload 적용
 ```
